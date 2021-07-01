@@ -1,5 +1,4 @@
 ### Hi there 👋
-https://raw.githubusercontent.com/iconic/open-iconic/master/svg/medium.svg.
 
 
 
